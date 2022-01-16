@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baalmortum
+- 👋 Hi, I’m Oscar V
 - 👀 I’m interested in Restful API developmenet.
 - 🌱 I’m currently learning C# .NET
 
